@@ -1,6 +1,7 @@
 import React from "react";
+import { NextPage } from "next";
 
-const Home: React.FC = () => {
+const Home: NextPage = () => {
   return (
     <section className="w-full flex-center flex-col">
       <h1 className="head_text text-center">
