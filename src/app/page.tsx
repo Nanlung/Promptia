@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <br className="max-md:hidden" />
         <span className="orange_gradient text-center">AI-Powered Prompts</span>
       </h1>
-      <p>
+      <p className="desc text-center">
         Promptia is an open source AI propmting tool for modern world to
         discover, create and share creative prompts
       </p>
